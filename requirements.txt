@@ -10,6 +10,7 @@ bleach==4.1.0
 certifi==2021.10.8
 cffi==1.15.0
 charset-normalizer==2.0.12
+click==8.0.4
 colorama==0.4.4
 cryptography==36.0.1
 debugpy==1.5.1
@@ -21,6 +22,7 @@ entrypoints==0.4
 executing==0.8.3
 filelock==3.6.0
 flake8==4.0.1
+Flask==2.0.3
 gitdb==4.0.9
 GitPython==3.1.27
 idna==3.3
@@ -30,6 +32,7 @@ ipykernel==6.9.1
 ipython==8.1.1
 ipython-genutils==0.2.0
 isort==5.10.1
+itsdangerous==2.1.1
 jedi==0.18.1
 jeepney==0.7.1
 Jinja2==3.0.3
@@ -102,5 +105,6 @@ virtualenv==20.13.2
 virtualenv-clone==0.5.7
 wcwidth==0.2.5
 webencodings==0.5.1
+Werkzeug==2.0.3
 wrapt==1.13.3
 zipp==3.7.0
